@@ -1,16 +1,34 @@
-# i_am_poor
+# I Am Poor App
 
-A new Flutter project.
+This is a simple Flutter application called "I Am Poor". It is a minimalist app that demonstrates the basics of Flutter app development, focusing on UI design and layout.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+The "I Am Poor" app is the opposite of the famous "I Am Rich" app. It consists of a single screen that displays an image of a coal or a rock along with the text "I Am Poor". It serves as a fun and educational project for beginners learning Flutter development.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Displays an image of a poor man.
+- Displays the text "I Am Poor".
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![App Screenshot](screenshot.png)
+
+## Usage
+
+1. Clone or download the repository.
+2. Open the project in Android Studio or any other Flutter-compatible IDE.
+3. Run the app on an emulator or physical device.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+
+## GitHub Repository
+
+The source code for this app is available on GitHub: [I Am Poor](https://github.com/zahidprvz/i_am_poor)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
