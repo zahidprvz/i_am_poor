@@ -13,7 +13,7 @@ The "I Am Poor" app is the opposite of the famous "I Am Rich" app. It consists o
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.jpeg)
 
 ## Usage
 
